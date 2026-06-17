@@ -94,6 +94,20 @@ These technologies provide efficient data manipulation, analysis, and visualizat
 
 The results of this analysis can help insurance companies improve risk assessment and pricing strategies. Understanding customer characteristics enables organizations to design more accurate insurance plans and optimize premium calculations. Additionally, predictive insights can support customer segmentation and improve overall operational efficiency.
 
+
+<img width="549" height="427" alt="Screenshot 1" src="https://github.com/user-attachments/assets/64ac3c01-6050-4649-8417-7121bf7f2cce" />
+
+
+
+# 1. Age vs Insurance Charges Analysis
+
+This graph shows the relationship between customer age and their insurance charges. The line chart helps to understand how insurance costs change based on different age groups. The visualization represents the increase and variation of insurance charges among customers.
+
+Observation: The graph shows that insurance charges generally increase with age. Older customers have higher medical expenses compared to younger customers. This analysis helps to identify the impact of age on health insurance costs and understand customer risk factors.
+
+<img width="761" height="482" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b4aa3d63-14c5-48ab-9eaf-e2a1f3c981cc" />
+
+
 # Conclusion :
 
 This Health Insurance Data Analysis project demonstrates how data analytics can be used to extract meaningful insights from healthcare-related datasets. By analyzing demographic and lifestyle factors, the project identifies key variables that influence insurance charges. The findings can assist insurance companies in making informed decisions, improving customer service, and developing better pricing strategies. This project also serves as a practical example of applying data analysis concepts, visualization techniques, and business intelligence methodologies in a real-world healthcare scenario.
