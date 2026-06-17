@@ -94,27 +94,48 @@ These technologies provide efficient data manipulation, analysis, and visualizat
 
 The results of this analysis can help insurance companies improve risk assessment and pricing strategies. Understanding customer characteristics enables organizations to design more accurate insurance plans and optimize premium calculations. Additionally, predictive insights can support customer segmentation and improve overall operational efficiency.
 
+# Result And Analysis :
 
-<img width="549" height="427" alt="Screenshot 1" src="https://github.com/user-attachments/assets/64ac3c01-6050-4649-8417-7121bf7f2cce" />
+# 1. Simple Graph :
+
+The graph shows a positive linear relationship between X and Y values. When the X-axis value increases, the Y-axis value also increases at a constant rate. This visualization helps to understand the data pattern and makes it easier to identify trends and relationships between variables. Line graphs are commonly used in data analysis projects for comparing values and analyzing changes.
+
+<img width="549" height="427" alt="Screenshot 1" src="https://github.com/user-attachments/assets/63e50943-81cd-4239-a5f4-b89c92d5d21b" />
 
 
-
-# 1. Age vs Insurance Charges Analysis
+# 2. Age vs Insurance Charges Analysis
 
 This graph shows the relationship between customer age and their insurance charges. The line chart helps to understand how insurance costs change based on different age groups. The visualization represents the increase and variation of insurance charges among customers.
 
 Observation: The graph shows that insurance charges generally increase with age. Older customers have higher medical expenses compared to younger customers. This analysis helps to identify the impact of age on health insurance costs and understand customer risk factors.
 
-<img width="761" height="482" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b4aa3d63-14c5-48ab-9eaf-e2a1f3c981cc" />
+<img width="761" height="482" alt="Screenshot 2" src="https://github.com/user-attachments/assets/bf7acb60-6e12-4fab-a642-ae57c8315f8f" />
 
 
-### 1. Age vs Insurance Charges Visualization
+# 3. Age vs Insurance Charges Visualization
 
 This graph represents the relationship between customer age and insurance charges using a line chart. The visualization helps to understand how the insurance cost changes across different age groups. The chart displays age values on the X-axis and insurance charges on the Y-axis.
 
 Observation:The graph shows that insurance charges increase as the customer's age increases. The upward trend indicates that older customers may have higher medical expenses. This analysis helps in understanding the impact of age on insurance pricing and supports better decision-making in health insurance analysis.
 
-<img width="787" height="490" alt="Screenshot 3" src="https://github.com/user-attachments/assets/4873710d-54a4-49a8-bf24-60d8466d855c" />
+
+
+<img width="787" height="490" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0bda0291-9116-45f2-8661-be6829296998" />
+
+
+
+# 4. Age vs BMI Analysis
+
+This bar chart illustrates the relationship between customer age and Body Mass Index (BMI). The chart helps visualize how BMI values vary across different age groups in the health insurance dataset. Each bar represents the BMI value of an individual customer.
+
+**Observation:** The chart shows that BMI values differ among customers of various ages. Some customers in the higher age groups have relatively higher BMI values compared to younger customers. This analysis helps identify patterns in body weight distribution and can be useful for understanding health-related risk factors in insurance analysis.
+
+
+
+<img width="717" height="482" alt="Screenshot 4" src="https://github.com/user-attachments/assets/aa7f5530-e19d-4154-bd2e-96cb486f4358" />
+
+
+
 
 # Conclusion :
 
