@@ -108,6 +108,14 @@ Observation: The graph shows that insurance charges generally increase with age.
 <img width="761" height="482" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b4aa3d63-14c5-48ab-9eaf-e2a1f3c981cc" />
 
 
+### 1. Age vs Insurance Charges Visualization
+
+This graph represents the relationship between customer age and insurance charges using a line chart. The visualization helps to understand how the insurance cost changes across different age groups. The chart displays age values on the X-axis and insurance charges on the Y-axis.
+
+Observation:The graph shows that insurance charges increase as the customer's age increases. The upward trend indicates that older customers may have higher medical expenses. This analysis helps in understanding the impact of age on insurance pricing and supports better decision-making in health insurance analysis.
+
+<img width="787" height="490" alt="Screenshot 3" src="https://github.com/user-attachments/assets/4873710d-54a4-49a8-bf24-60d8466d855c" />
+
 # Conclusion :
 
 This Health Insurance Data Analysis project demonstrates how data analytics can be used to extract meaningful insights from healthcare-related datasets. By analyzing demographic and lifestyle factors, the project identifies key variables that influence insurance charges. The findings can assist insurance companies in making informed decisions, improving customer service, and developing better pricing strategies. This project also serves as a practical example of applying data analysis concepts, visualization techniques, and business intelligence methodologies in a real-world healthcare scenario.
